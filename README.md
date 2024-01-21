@@ -11,6 +11,5 @@ Sterowanie
 Mysz: Używana do sterowania czerwonym kwadracikiem w labiryncie.
 Klawiatura: Służy do nawigacji w menu gry, umożliwiając wybór poziomów.
 
-Wymagania systemowe
-Java 8 lub nowsza.
+Wymagania systemowe: Java 8 lub nowsza.
 System operacyjny: dowolny system obsługujący Javę.
