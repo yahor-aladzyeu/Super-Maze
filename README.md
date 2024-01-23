@@ -1,15 +1,41 @@
-# Super-Maze
+# AcousticEventsDB
 
 
-Super Maze (Java)
-Cel
-Projekt "Super Maze" ma na celu rozwój gry logicznej, która oferuje wiele poziomów o zróżnicowanym stopniu trudności. Głównym zadaniem gracza jest przeprowadzenie czerwonego kwadratu przez labirynt w taki sposób, aby unikał kontaktu ze ścianami. Gra ta stanowi wyzwanie zarówno dla umiejętności logicznego myślenia, jak i zręczności.
 
-Technologia: Java
+## Table of Contents
+* [General Info](#general-information)
+* [Technologies Used](#technologies-used)
+* [Features](#features)
+* [Screenshots](#screenshots)
+* [Usage](#usage)
+* [Additional Resources](#Additional-Resources)
+* [Project Status](#project-status)
 
-Sterowanie
-Mysz: Używana do sterowania czerwonym kwadracikiem w labiryncie.
-Klawiatura: Służy do nawigacji w menu gry, umożliwiając wybór poziomów.
 
-Wymagania systemowe: Java 8 lub nowsza.
-System operacyjny: dowolny system obsługujący Javę.
+## General Information
+
+
+
+## Technologies Used
+
+
+
+## Features
+
+
+
+## Screenshots
+![Example screenshot](cl-rom-sc-t-asc-2oct-ed-32_cube_wood_SNR50_spectrogram.png)
+<div align="center" > <em><small>An example spectrogram for one of the recordings(SNR 50dB)</small></em></div>
+
+
+## Usage
+
+
+
+## Additional Resources
+
+
+
+## Project Status
+
