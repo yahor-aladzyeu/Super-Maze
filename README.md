@@ -33,14 +33,23 @@ Base64
 Base64 is a technique for encoding binary data into ASCII character strings. This technique enables easier management and embedding of resources in source code or configuration files. Thanks to Base64, binary files are stored and transported in text form, simplifying processes such as data transfer. This technique enhances the portability and universality of the application, facilitating easier resource management and integration.
 
 ## Features
+**Multi-Level Gameplay:** The game offers eight diverse levels, each with unique challenges and layouts that progressively increase in difficulty.
 
+**Intuitive Controls:** The user can easily navigate through the game using a keyboard and mouse, providing a smooth and responsive experience.
+
+**Dynamic Transitions Between Levels:** Upon achieving the goal on a given level, the game automatically moves the player to the next, ensuring a seamless and continuous gameplay.
+
+**Clear Visualization of Goals and Limitations:** The blue square (player) and the red area (goal) are clearly visible, and the boundaries of the area that cannot be touched are distinctly marked in black.
+
+**Simple, Yet Engaging Game Mechanics:** The simplicity of the rules combined with the difficulty of maneuvering creates an engaging and challenging game.
+
+**Start Menu:** The user can easily start the game and select levels from an intuitive start menu.
 
 
 ## Screenshots
 ![Example screenshot](1.png)
 ![Example screenshot](2.png)
 ![Example screenshot](3.png)
-<div align="center" > <em><small>An example spectrogram for one of the recordings(SNR 50dB)</small></em></div>
 
 
 ## Usage
