@@ -1,4 +1,4 @@
-# AcousticEventsDB
+# Super Maze
 
 
 
@@ -8,7 +8,6 @@
 * [Features](#features)
 * [Screenshots](#screenshots)
 * [Usage](#usage)
-* [Additional Resources](#Additional-Resources)
 * [Project Status](#project-status)
 
 
@@ -38,17 +37,19 @@ Base64 is a technique for encoding binary data into ASCII character strings. Thi
 
 
 ## Screenshots
-![Example screenshot](cl-rom-sc-t-asc-2oct-ed-32_cube_wood_SNR50_spectrogram.png)
+![Example screenshot](1.png)
+![Example screenshot](2.png)
+![Example screenshot](3.png)
 <div align="center" > <em><small>An example spectrogram for one of the recordings(SNR 50dB)</small></em></div>
 
 
 ## Usage
-
-
-
-## Additional Resources
-
+1. Begin your adventure with the game.
+2. Use the arrow keys to select one of the eight available levels.
+3. After selecting a level, go to the menu and choose the "Start" option, then press the Enter key to start the game.
+4. Your task is to guide the blue square to the red area. Use the mouse to control the square. Remember not to go into the black area, as this will result in a loss.
+5. After successfully getting the blue square to the red area, the game will automatically take you to the next level, where new challenges await.
 
 
 ## Project Status
-
+The project has been successfully completed.
